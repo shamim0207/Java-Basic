@@ -1,0 +1,4 @@
+interface person {
+    void introduce();
+
+}
