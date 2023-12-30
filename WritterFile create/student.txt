@@ -1,0 +1,3 @@
+writting to a file.
+where is another text.
+my name is shamim.
